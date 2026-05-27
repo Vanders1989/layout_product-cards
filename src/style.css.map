@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "styles/_stars.scss",
+    "styles/_card.scss",
+    "styles/_variables.scss"
+  ],
+  "names": [],
+  "mappings": "AAAA;EACE;;AAEA;EACE;EACA;EACA;EAEA;EACA;EACA;;;AAIJ;EACE;;;ACfF;EACE;EACA;;;AAGF;EACE,OCNW;EDOX;EACA;;AAEA;EACE;;AAGF;EACE;EACA,OCdS;;ADiBX;EACE;;AAGF;EACE;EACA;EACA;EAEA;EAEA;EACA;EACA,kBC/BS;EDgCT;;AAEA;EACE,OCnCO;EDoCP;EACA",
+  "file": "style.css"
+}
